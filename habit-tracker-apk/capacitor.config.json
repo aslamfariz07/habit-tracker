@@ -1,0 +1,9 @@
+{
+  "appId": "com.habittracker.app",
+  "appName": "Habit Tracker",
+  "webDir": "www",
+  "backgroundColor": "#0A0A0A",
+  "android": {
+    "backgroundColor": "#0A0A0A"
+  }
+}
